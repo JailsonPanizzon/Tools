@@ -1,3 +1,9 @@
+"""
+Copyright (c) 2021 JailsonPanizzon, Inc.
+Licensed under the MIT License (see LICENSE for details)
+Written by Jailson Panizzon
+"""
+
 import random
 import string
 
